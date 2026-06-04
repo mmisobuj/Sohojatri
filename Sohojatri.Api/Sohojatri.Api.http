@@ -1,0 +1,6 @@
+@Sohojatri.Api_HostAddress = http://localhost:5177
+
+GET {{Sohojatri.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
